@@ -1,0 +1,13 @@
+
+
+.table tr:hover {background-color: rgb(185, 255, 193);}
+
+
+.table th {
+    color:wheat;
+    
+}
+
+.table td {
+    color: green;
+}
