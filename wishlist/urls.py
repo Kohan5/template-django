@@ -9,6 +9,7 @@ from wishlist.views import login_user
 from wishlist.views import logout_user
 
 from wishlist.views import show_ajax
+from wishlist.views import add_wishlist
 
 app_name = 'wishlist'
 
